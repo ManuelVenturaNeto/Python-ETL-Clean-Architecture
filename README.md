@@ -1,5 +1,5 @@
 
-# Teste Técnico OnFly
+# Python-ETL-Clean-Architecture
 
 ## Autor
 
@@ -21,7 +21,7 @@ Por fim ele salva em uma pasta "outputs" dois arquivos:
 1. Clone o repositorio do github:
 
 ```terminal
-  git clone https://github.com/ManuelVenturaNeto/TESTE_ONFLY_MANUEL_VENTURA.git
+  git clone https://github.com/ManuelVenturaNeto/Python-ETL-Clean-Architecture.git
 ```
 
 2. Entre na parta: 
